@@ -11,12 +11,12 @@ and many thanks for stopping by.
 
 #### I am ...
 - 👨🏻‍🎓: studying `Medical Informatics @ OTH Regensburg`
-- 💼: working as a `Student Employee @ EDAG Engineering GmbH`
+- 💼: working as a `Development Engineer @ EDAG Engineering GmbH`
 - 💡: passionate about `Software Engineering`, `Embedded Systems` & `RF Engineering`
-- 🚧: working on my `Bachelors-Thesis`
-- 📖: reading `The Definitive Guide to ARM Cortex®-M3 and Cortex®-M4 Processors - Joseph Yiu`
+- 🚧: working on my `Matrix Homeserver`
+- 📖: reading `Domain-Driven Design Distilled - Vaughn Vernon`
 - 🔬: confident in working with `C`, `C++` and `C#`
-- 🦀: curious about [`Rust`](https://github.com/rust-lang/rust)
+- 🦀: still curious about [`Rust`](https://github.com/rust-lang/rust)
 - ✨: delighted with my favorite font face: [`Iosevka SS09 Extended`](https://github.com/be5invis/Iosevka)
 
 <h3>
