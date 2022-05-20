@@ -10,11 +10,10 @@ and many thanks for stopping by.
 </div>
 
 #### I am ...
-- 👨🏻‍🎓: studying `Medical Informatics @ OTH Regensburg`
 - 💼: working as a `Development Engineer @ EDAG Engineering GmbH`
 - 💡: passionate about `Software Engineering`, `Embedded Systems` & `RF Engineering`
-- 🚧: working on my `Matrix Homeserver`
-- 📖: reading `Domain-Driven Design Distilled - Vaughn Vernon`
+- 🚧: working on my `3D printer`
+- 📖: reading `Linux Kernel Programming - Kaiwan N Billimoria`
 - 🔬: confident in working with `C`, `C++` and `C#`
 - 🦀: still curious about [`Rust`](https://github.com/rust-lang/rust)
 - ✨: delighted with my favorite font face: [`Iosevka SS09 Extended`](https://github.com/be5invis/Iosevka)
