@@ -12,8 +12,8 @@ and many thanks for stopping by.
 #### I am ...
 - 💼: working as a `Development Engineer @ EDAG Engineering GmbH`
 - 💡: passionate about `Software Engineering`, `Embedded Systems` & `RF Engineering`
-- 🚧: working on my `3D printer`
-- 📖: reading `Linux Kernel Programming - Kaiwan N Billimoria`
+- 🚧: working on my `VW T3`
+- 📖: reading `More Effective C++ - Scott Meyers`
 - 🔬: confident in working with `C`, `C++` and `C#`
 - 🦀: still curious about [`Rust`](https://github.com/rust-lang/rust)
 - ✨: delighted with my favorite font face: [`Iosevka SS09 Extended`](https://github.com/be5invis/Iosevka)
