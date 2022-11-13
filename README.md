@@ -12,7 +12,7 @@ and many thanks for stopping by.
 #### I am ...
 - 💼: working as a `Development Engineer @ EDAG Engineering GmbH`
 - 💡: passionate about `Software Engineering`, `Embedded Systems` & `RF Engineering`
-- 🚧: working on my `VW T3`
+- 🚧: working on my `GitHub Profile`
 - 📖: reading `The Rust Programming Language - Klabnik et al.`
 - 🔬: confident in working with `C`, `C++` and `C#`
 - 🦀: learning [`Rust`](https://github.com/rust-lang/rust)
