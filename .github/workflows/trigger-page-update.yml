@@ -1,0 +1,14 @@
+name: Trigger page update
+
+on:
+  push:
+    branches:
+      - 'main'
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    uses: chilippso/chilippso.github.io/.github/workflows/update.yml@main
