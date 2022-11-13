@@ -13,9 +13,9 @@ and many thanks for stopping by.
 - 💼: working as a `Development Engineer @ EDAG Engineering GmbH`
 - 💡: passionate about `Software Engineering`, `Embedded Systems` & `RF Engineering`
 - 🚧: working on my `VW T3`
-- 📖: reading `More Effective C++ - Scott Meyers`
+- 📖: reading `The Rust Programming Language - Klabnik et al.`
 - 🔬: confident in working with `C`, `C++` and `C#`
-- 🦀: still curious about [`Rust`](https://github.com/rust-lang/rust)
+- 🦀: learning [`Rust`](https://github.com/rust-lang/rust)
 - ✨: delighted with my favorite font face: [`Iosevka SS09 Extended`](https://github.com/be5invis/Iosevka)
 
 <h3>
