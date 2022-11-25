@@ -13,7 +13,7 @@ and many thanks for stopping by.
 - 💼: working as a `Development Engineer @ EDAG Engineering GmbH`
 - 💡: passionate about `Software Engineering`, `Embedded Systems` & `RF Engineering`
 - 🚧: working on my `GitHub Profile`
-- 📖: reading `The Rust Programming Language - Klabnik et al.`
+- 📖: reading `The Rust Programming Language - Klabnik et al.` & `A Tour of C++ (Third Edition) - Bjarne Stroustrup`
 - 🔬: confident in working with `C`, `C++` and `C#`
 - 🦀: learning [`Rust`](https://github.com/rust-lang/rust)
 - ✨: delighted with my favorite font face: [`Iosevka SS09 Extended`](https://github.com/be5invis/Iosevka)
