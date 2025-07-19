@@ -12,7 +12,7 @@ and many thanks for stopping by.
 #### I am ...
 - 💼: working as a `Software Architect @ AIRBUS`
 - 💡: passionate about `Software Engineering`, `Embedded Systems` & `RF Engineering`
-- 🚧: working on to many things in parallel
+- 🚧: working on too many things in parallel
 - 📖: reading to continously improve my skills and myself
 - 🔬: confident in working with `C`, `C++` and `C#`
 - 🦀: still interested in learning [`Rust`](https://github.com/rust-lang/rust)
